@@ -12,6 +12,12 @@ html {
 	justify-content: flex-start;
 	align-items: center;
 }
+.text{
+	font-size: 30px;
+	text-align: center;
+	color: #ffffff;
+}
+
 
 .keyboard_row {
 	display: flex;
