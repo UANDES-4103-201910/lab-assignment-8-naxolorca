@@ -12,10 +12,10 @@ html {
 	justify-content: flex-start;
 	align-items: center;
 }
-.text{
+.textContainer{
 	font-size: 30px;
 	text-align: center;
-	color: #ffffff;
+	color: #00F900;
 }
 
 
